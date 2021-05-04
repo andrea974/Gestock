@@ -1,0 +1,45 @@
+body{
+    margin:0;
+    padding: 0;
+    width: 100%;
+    height: auto;
+}
+
+header{
+    background-color: #4682B4;
+    margin-bottom: 50px;
+}
+
+
+header img{
+    width: 145px;
+    margin-left: 20px;
+}
+
+td p{
+    display: inline-block;
+}
+
+table button{
+    border: none;
+    padding-right: 10px;
+    padding-left: 10px;
+    background-color:  #4682B4;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    color: white;
+    width: 71px;
+    font-size: initial;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-left: 20px;
+}
+
+table button:hover{
+    transform: scale(1.1);
+}
+
+#listAvis_wrapper{
+    width: 70rem!important;
+    margin: auto!important;
+}
