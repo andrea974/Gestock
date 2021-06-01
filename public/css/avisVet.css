@@ -35,6 +35,7 @@ td p{
     margin: auto;
 }
 
-tr td{
-    display: flex;
+
+button{
+    background-image: url('../public/image/bin.png');
 }
